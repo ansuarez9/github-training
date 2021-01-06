@@ -1,0 +1,7 @@
+clone this
+wait to pull
+...
+after pulling latest, add any document
+git add .
+git commit -m "<some message>"
+git push
